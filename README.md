@@ -1,0 +1,2 @@
+# pokedex
+basic text pokedex
