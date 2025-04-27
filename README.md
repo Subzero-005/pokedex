@@ -1,2 +1,2 @@
 # pokedex
-basic text pokedex
+basic text pokedex(gen1)
